@@ -12,7 +12,7 @@ Topics by year:
   
   2018  Satellite Station with QFH Antennas (Spanish)
   
-  2019 How to seup a Station for QO-100 Satellite (Spanish)
+  2019 How to setup a Station for QO-100 Satellite (Spanish)
  
  
  
