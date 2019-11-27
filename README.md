@@ -1,6 +1,6 @@
 # Iberradio Presentations
 
-Here you will find the presentations I made in Iberradio Ham Fair on different years, related with different topics on Rf Measurement, Antennas and Satellites.
+Here you will find the presentations I made in Iberradio Ham Fair on different years, related with different topics on RF Measurement, Antennas and Satellites.
 
 All presentations are in Spanish
 
