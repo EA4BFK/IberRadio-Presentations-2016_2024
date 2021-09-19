@@ -1,6 +1,6 @@
 # My Presentations
 
-Here you will find the presentations I made in Iberradio Ham Fair on different years, related with different topics on RF Measurement, Antennas and Satellites.
+Here you will find the presentations I made in Iberradio Ham Fair on different years, about RF Measurement, Antennas and Satellites.
 
 All presentations are in Spanish
 
@@ -14,7 +14,7 @@ Topics by year:
   
   2019 How to setup a Station for QO-100 Satellite (Spanish)
  
-  2021 The Noise Figure and How to measure it. CANFI Project 
+  2021 The Noise Figure and How to measure it. CANFI Project (Spanish)
  
  
  Happy reading
