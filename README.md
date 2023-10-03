@@ -17,6 +17,8 @@ Topics by year:
   2021 The Noise Figure and How to measure it. CANFI Project (Spanish)
   
   2022 Pluto RTX EA Project - SDR Transceiver for Microwaves (Spanish)
+
+  2923 Proyecto: Nuevo Sistema de Balizas de URE (Spanish)
  
  
  Happy reading
