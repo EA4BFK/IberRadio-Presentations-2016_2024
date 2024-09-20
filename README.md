@@ -19,7 +19,8 @@ Topics by year:
   2022 Pluto RTX EA Project - SDR Transceiver for Microwaves (Spanish)
 
   2023 Proyecto: Nuevo Sistema de Balizas de URE (Spanish)
- 
+
+ 2024 ¿Cómo Iniciarse en el Diseño de RF? Herramientas y Laboratorio asequible (Spanish)
  
  Happy reading
  
